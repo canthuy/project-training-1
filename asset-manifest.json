@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/canthuy.github.io/project-training_1/static/css/main.3c99698f.chunk.css",
+    "main.js": "/canthuy.github.io/project-training_1/static/js/main.231f5ad7.chunk.js",
+    "main.js.map": "/canthuy.github.io/project-training_1/static/js/main.231f5ad7.chunk.js.map",
+    "runtime-main.js": "/canthuy.github.io/project-training_1/static/js/runtime-main.0718cfb2.js",
+    "runtime-main.js.map": "/canthuy.github.io/project-training_1/static/js/runtime-main.0718cfb2.js.map",
+    "static/js/2.85ac40df.chunk.js": "/canthuy.github.io/project-training_1/static/js/2.85ac40df.chunk.js",
+    "static/js/2.85ac40df.chunk.js.map": "/canthuy.github.io/project-training_1/static/js/2.85ac40df.chunk.js.map",
+    "static/js/3.4053f7ea.chunk.js": "/canthuy.github.io/project-training_1/static/js/3.4053f7ea.chunk.js",
+    "static/js/3.4053f7ea.chunk.js.map": "/canthuy.github.io/project-training_1/static/js/3.4053f7ea.chunk.js.map",
+    "index.html": "/canthuy.github.io/project-training_1/index.html",
+    "static/css/main.3c99698f.chunk.css.map": "/canthuy.github.io/project-training_1/static/css/main.3c99698f.chunk.css.map",
+    "static/js/2.85ac40df.chunk.js.LICENSE.txt": "/canthuy.github.io/project-training_1/static/js/2.85ac40df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/canthuy.github.io/project-training_1/static/media/workspace-background.63932edf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0718cfb2.js",
+    "static/js/2.85ac40df.chunk.js",
+    "static/css/main.3c99698f.chunk.css",
+    "static/js/main.231f5ad7.chunk.js"
+  ]
+}
